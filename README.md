@@ -1,2 +1,2 @@
 # Elmitec-LEEM
-ELMITEC Elektronenmikroskopie GmbH  LEEM  UKSOFT .dat  Ffiles reading
+ELMITEC Elektronenmikroskopie GmbH  LEEM  UKSOFT .dat  files reading
