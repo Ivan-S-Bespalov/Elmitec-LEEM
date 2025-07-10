@@ -4,10 +4,15 @@ Currently, it extracts the header size, image dimensions, and basic file paramet
 
 To Do:
 	1.	Parse all microscope parameters, including:
+ 
 	  •	Electron optics settings;
+   
 	  •	Temperature;
+   
 	  •	Field of view (FOV);
+   
 	  •	Time;
+   
     •	STV.
 	2.	Extract FOV from the header to calculate the spatial scale (pixels per micron).
 	3.	Enable batch processing of image stacks.
