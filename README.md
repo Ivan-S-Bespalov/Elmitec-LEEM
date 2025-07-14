@@ -6,15 +6,15 @@ To Do:
 
 	1.	Parse all microscope parameters, including:
  
-	  •	Electron optics settings;
+	  •	Electron optics settings  (Done);
    
-	  •	Temperature;
+	  •	Temperature (Done);
    
 	  •	Field of view (FOV);
    
 	  •	Time;
    
-          •	STV.
+          •	STV(Done).
     
 	2.	Extract FOV from the header to calculate the spatial scale (pixels per micron).
  
