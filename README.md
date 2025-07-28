@@ -20,7 +20,7 @@ To Do:
  
 	3.	Enable batch processing of image stacks.
  
-        4. Subtract dark counts (Detector noise) and Flat Field (Mirror more at  STV-5 eV). Refer: Ph.D. thesis of T. A. de Jong: 'Superlattices in van der Waals materials: 
+        4. Subtract dark counts (Detector noise) and Flat Field (Mirror more at  STV @ -5 eV). Refer: Ph.D. thesis of T. A. de Jong: 'Superlattices in van der Waals materials: 
 	                                                                                     a   low-   energy electron microscopy study'
  
 	4.	Extract intensity trends for:
