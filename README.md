@@ -4,7 +4,7 @@ Currently, it extracts the header size, image dimensions, and basic file paramet
 
 To Do:
 
-	1.	Parse all microscope parameters, including:
+	1.	Parse relevant microscope parameters, including:
  
 	  •	Electron optics settings  (Done);
    
@@ -14,19 +14,19 @@ To Do:
    
 	  •	Time;
    
-          •	STV(Done).
+      •STV(Done).
     
 	2.	Extract FOV from the header to calculate the spatial scale (pixels per micron).
  
-	3.	Enable batch processing of image stacks.
+    3. Subtract dark counts (Detector noise) and Flat Field (Mirror more at  STV @ -5 eV). 
+	Refer: Ph.D. thesis of T. A. de Jong: 'Superlattices in van der Waals materials: a   low-energy electron microscopy study'
  
-        4. Subtract dark counts (Detector noise) and Flat Field (Mirror more at  STV @ -5 eV). Refer: Ph.D. thesis of T. A. de Jong: 'Superlattices in van der Waals materials: 
-	                                                                                     a   low-   energy electron microscopy study'
+    4.	Enable batch processing of image stacks.
  
-	4.	Extract intensity trends for:
+	5.	Extract intensity trends for:
  
 	  •	LEEM I–V measurements: intensity vs. sample voltage (STV);
    
 	  •	Growth monitoring: intensity vs. temperature.
    
-	5.	Export desired data to .csv format for further analysis.
+	6.	Export desired data to .csv format for further analysis.
